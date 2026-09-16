@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="ree360LogoMonoTitle">
+  <title id="ree360LogoMonoTitle">Real Estate Expert 360 (monochrome)</title>
+  <circle cx="100" cy="100" r="88" fill="none" stroke="currentColor" stroke-width="7"/>
+  <g fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M55 100 L100 62 L145 100"/>
+    <path d="M66 92 V138 H134 V92"/>
+    <path d="M78 118 L92 110 L100 114 L108 110 L122 118"/>
+    <path d="M92 110 L88 123 L96 128"/>
+    <path d="M108 110 L112 123 L104 128"/>
+  </g>
+  <circle cx="100" cy="124" r="4" fill="currentColor"/>
+</svg>
