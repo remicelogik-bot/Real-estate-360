@@ -454,6 +454,7 @@ section { padding: 64px 0; }
 .team-photo.ph-4 { background: linear-gradient(135deg, var(--bloc-2), #b8442f); }
 .team-photo.ph-5 { background: linear-gradient(135deg, var(--bloc-7), #b98a1f); }
 .team-photo.ph-6 { background: linear-gradient(135deg, var(--bloc-3), #227079); }
+.team-photo.ph-7 { background: linear-gradient(135deg, var(--bloc-6), #6e4529); }
 
 .team-photo .avatar-real { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 
